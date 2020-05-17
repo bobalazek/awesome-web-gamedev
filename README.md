@@ -42,7 +42,7 @@
 * Website: http://phaser.io
 * Github: https://github.com/photonstorm/phaser
 * License: [MIT License](https://github.com/photonstorm/phaser/blob/master/LICENSE.md)
-* Editor: https://phasereditor2d.com ([Github](https://github.com/PhaserEditor2D/PhaserEditor2D-v3])
+* Editor: https://phasereditor2d.com ([Github](https://github.com/PhaserEditor2D/PhaserEditor2D-v3]))
 
 #### PixiJS
 * Website: https://www.pixijs.com
