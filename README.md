@@ -66,6 +66,11 @@
 * Github: https://github.com/schteppe/cannon.js
 * License: https://github.com/schteppe/cannon.js/blob/master/LICENSE
 
+#### Goblin Physics
+* Website: http://www.goblinphysics.com/
+* Github: https://github.com/chandlerprall/GoblinPhysics
+* License: [zlib License](https://github.com/chandlerprall/GoblinPhysics/blob/master/LICENSE)
+
 
 ### 2D
 
