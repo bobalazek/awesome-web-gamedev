@@ -1,7 +1,7 @@
 # Awesome Web GameDev
 > A curated list of awesome web game development resources & stuff.
 
-## Graphics engines, libraries & frameworks
+## Game engines, libraries, frameworks & editors
 
 ### 3D
 
@@ -16,6 +16,12 @@
 * Github: https://github.com/mrdoob/three.js
 * License: [MIT License](https://github.com/mrdoob/three.js/blob/dev/LICENSE)
 * Editor: https://threejs.org/editor ([Github](https://github.com/mrdoob/three.js/tree/master/editor))
+
+#### Cocos Creator
+* Website: https://www.cocos.com/en/creator
+* Github: https://github.com/cocos-creator/engine
+* License: https://github.com/cocos-creator/engine/tree/master/licenses
+* Editor: Yes
 
 #### PlayCanvas
 * Website: https://playcanvas.com
