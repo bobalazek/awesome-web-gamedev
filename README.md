@@ -83,3 +83,7 @@
 * Website: http://piqnt.com/planck.js
 * Github: https://github.com/shakiba/planck.js
 * License: [zlib License](https://github.com/shakiba/planck.js/blob/master/LICENSE.txt)
+
+#### p2.js
+* Github: https://github.com/schteppe/p2.js
+License: [MIT License](https://github.com/schteppe/p2.js/blob/master/LICENSE)
