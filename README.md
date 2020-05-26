@@ -86,4 +86,4 @@
 
 #### p2.js
 * Github: https://github.com/schteppe/p2.js
-License: [MIT License](https://github.com/schteppe/p2.js/blob/master/LICENSE)
+* License: [MIT License](https://github.com/schteppe/p2.js/blob/master/LICENSE)
