@@ -1,6 +1,7 @@
 # Awesome Web GameDev
 > A curated list of awesome web game development resources & stuff.
 
+
 ## Game engines, libraries, frameworks & editors
 
 ### 3D
@@ -87,3 +88,21 @@
 #### p2.js
 * Github: https://github.com/schteppe/p2.js
 * License: [MIT License](https://github.com/schteppe/p2.js/blob/master/LICENSE)
+
+
+## Multiplayer servers & frameworks
+
+#### Colyseus
+* Website: https://colyseus.io
+* Github: https://github.com/colyseus/colyseus
+* License: [MIT License](https://github.com/colyseus/colyseus/blob/master/LICENSE)
+
+#### geckos.io
+* Website: https://geckosio.github.io
+* Github: https://github.com/geckosio/geckos.io
+* License: [BSD 3-Clause "New" or "Revised" License](https://github.com/geckosio/geckos.io/blob/master/LICENSE)
+
+#### Lance
+* Website: http://lance.gg/
+* Github: https://github.com/lance-gg/lance
+* License: [Apache License 2.0](https://github.com/lance-gg/lance/blob/master/LICENSE)
