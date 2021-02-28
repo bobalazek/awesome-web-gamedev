@@ -50,7 +50,7 @@
 * Github: https://github.com/pixijs/pixi.js
 * License: [MIT License](https://github.com/pixijs/pixi.js/blob/dev/LICENSE)
 
-#### P5JS
+#### P5.js
 * Website: https://p5js.org/
 * Github: https://github.com/processing/p5.js
 * License: [GNU Lesser General Public License v2.1](https://github.com/processing/p5.js/blob/main/license.txt)
